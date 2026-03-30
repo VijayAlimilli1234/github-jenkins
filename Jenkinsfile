@@ -4,7 +4,7 @@ pipeline {
     environment {
         IMAGE = "vijayalimilli9/site1:v7"
         DOCKER_USER = "vijayalimilli9"
-        DOCKER_PASS = "your-password"
+        DOCKER_PASS = "123456789"
     }
 
     stages {
